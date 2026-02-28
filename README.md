@@ -7,7 +7,11 @@ I'm Shrawani Pawal
 - Improving my scripting and automation skills daily
 - Passionate about learning and building real-world projects
 
-Skills: Linux, Git & GitHub, Docker, Shell Scripting, Networking in devops
+Skills: Linux, 
+Git & GitHub, 
+Docker, 
+Shell Scripting,
+Networking in devops
 
 Goals: Become a skilled DevOps Engineer, Work on real-time cloud & automation projects, Contribute to open-source projects
 

@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi
+I'm Shrawani Pawal
 
-<!--
-**shrawanipawal3535-gif/shrawanipawal3535-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Aspiring DevOps Engineer from India
+- Currently learning Git, Github, Docker, Linux, Networking, Shell Scripting
+- Working on hands-on DevOps practice projects
+- Improving my scripting and automation skills daily
+- Passionate about learning and building real-world projects
 
-Here are some ideas to get you started:
+Skills:
+-Linux
+-Git & GitHub
+-Docker
+-Shell Scripting
+-Networking in devops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+-Become a skilled DevOps Engineer
+-Work on real-time cloud & automation projects
+-Contribute to open-source projects
+
+Connect With Me:
+-GitHub: https://github.com/shrawanipawal3535-gif
+-LinkedIn: www.linkedin.com/in/shrawani-pawal-235398312
+-Email: shrawanipawal3535@gmail.com
+
+
+

@@ -9,15 +9,9 @@ I'm Shrawani Pawal
 
 Skills: Linux, Git & GitHub, Docker, Shell Scripting, Networking in devops
 
-Goals:
--Become a skilled DevOps Engineer
--Work on real-time cloud & automation projects
--Contribute to open-source projects
+Goals: Become a skilled DevOps Engineer, Work on real-time cloud & automation projects, Contribute to open-source projects
 
-Connect With Me:
--GitHub: https://github.com/shrawanipawal3535-gif
--LinkedIn: www.linkedin.com/in/shrawani-pawal-235398312
--Email: shrawanipawal3535@gmail.com
+Connect With Me: GitHub: https://github.com/shrawanipawal3535-gif, LinkedIn: www.linkedin.com/in/shrawani-pawal-235398312, Email: shrawanipawal3535@gmail.com
 
 
 
